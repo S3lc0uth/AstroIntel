@@ -40,4 +40,4 @@ Base URL: `https://services.isrostats.in/api/spacecraft`
 
 Thank you for checking out this project!
 
-If you found this resource helpful, please consider giving it a star and following me on [GitHub](https://github.com/ANG13T).
+If you found this resource helpful, please consider giving it a star.
