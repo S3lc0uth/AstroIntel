@@ -1,4 +1,4 @@
-<img alt="Preview Image" width="700" src="https://github.com/stellaryx-labs/space-osint-template/blob/main/assets/images/preview.png">
+<img alt="Preview Image" width="700" src="https://github.com/S3lc0uth/AstroIntel/blob/main/AstroIntel/assets/images/banner.png">
 
 
 
@@ -6,7 +6,7 @@
 
 ## Preview
 
-<img alt="Preview Image" width="700" src="https://github.com/stellaryx-labs/space-osint-template/blob/main/assets/images/preview.png">
+<img alt="Preview Image" width="700" src="https://github.com/S3lc0uth/AstroIntel/blob/main/AstroIntel/assets/images/preview.png">
 
 ## Usage
 To run AstroIntel on your machine, follow the steps below:
